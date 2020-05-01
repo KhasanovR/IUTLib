@@ -1,16 +1,8 @@
-
-
-<img src="meta/iut_lms_report_html_a2205c482e80647b.png" style="zoom:50%; text-align=center" />
-
 # IUTLib
 
 > Library Management System
 
-
-
 ## Installation
-
-
 
 ### 1. Clone GitHub repo for this project locally
 
@@ -106,199 +98,150 @@ Shokhsanam Shirinkulova u1610231
 
 **GitHub repo:** [https://github.com/KhasanovR/IUTLIB](https://github.com/KhasanovR/IUTLIB) 
 
-Our web site is designed for an electronic library management system,
-which enables you to familiarize and download electronic textbooks,
-books and manuals, and add or remove them to or from “IUTLib“ database
+Our web site is designed for an electronic library management system, which enables you to familiarize and download electronic textbooks, books and manuals, and add or remove them to or from “IUTLib“ database
 based on the type of user.
 
-There are three types of users and they are student, teacher, librarian
-who can control all activities which is held and others.
+There are three types of users and they are student, teacher, librarian who can control all activities which is held and others.
 
-Stundent can see all content, download them and reserve them online then
-take it from library. Also the teacher can do the same things.
+Stundent can see all content, download them and reserve them online then take it from library. Also the teacher can do the same things.
 
-Librarians as we said before, can control all system activities and
-changes. And they can add more type of books moreover, new librarian
-accounts. Only librarian can delete members and books from the database.
+Librarians as we said before, can control all system activities and changes. And they can add more type of books moreover, new librarian accounts. Only librarian can delete members and books from the database.
 
-![](meta/iut_lms_report_html_28d8eaa0c36b3f32.png){width="665" height="374"}
+![](meta/iut_lms_report_html_28d8eaa0c36b3f32.jpg)
 
-Firstly as you try to enter to our website, every page on it starts with
-“preloader” that was implemented by JavaScript and this loader will wait
-until whole page components are loaded.
+Firstly as you try to enter to our website, every page on it starts with “preloader” that was implemented by JavaScript and this loader will wait until whole page components are loaded.
 
 Then, first page will be showed as following pictures:
 
-![](meta/iut_lms_report_html_b49e45d41c4301b1.png){width="665" height="308"}
+![](meta/iut_lms_report_html_b49e45d41c4301b1.jpg)
 
-![](meta/iut_lms_report_html_57faf7de2c9a214.png){width="665" height="228"}
+![](meta/iut_lms_report_html_57faf7de2c9a214.jpg)
 
-![](meta/iut_lms_report_html_767ff31463e8de04.png){width="665"
-height="309"}
+![](meta/iut_lms_report_html_767ff31463e8de04.jpg)
 
+![](meta/iut_lms_report_html_e76d89838e3e1f6c.jpg)
 
-
-![](meta/iut_lms_report_html_e76d89838e3e1f6c.png){width="665" height="307"}
-
-As you see first index page includes “Most popular books” with animation
-owl-carousel. Every cover page of most popular books that is on carousel
-is taken from database, “books” table according to their ranks that
+As you see first index page includes “Most popular books” with animation owl-carousel. Every cover page of most popular books that is on carousel is taken from database, “books” table according to their ranks that
 members was given.
 
-Also, recently added books’ cover pages will be shown that followed
-brief information about IUT-LMS, after that Service, Entertainment,
-Audio books block give references to resources.
+Also, recently added books’ cover pages will be shown that followed brief information about IUT-LMS, after that Service, Entertainment, Audio books block give references to resources.
 
-And lastly, every page includes navigation bar, which has page options
-Home, Catalogue, Textbooks, About and Login and additional options based
-on types of user logged in, and footer part which include all contact
-information and addresses with location that is implemented by API of
-the Google map.
+And lastly, every page includes navigation bar, which has page options Home, Catalogue, Textbooks, About and Login and additional options based on types of user logged in, and footer part which include all contact information and addresses with location that is implemented by API of the Google map.
 
-![](meta/iut_lms_report_html_ecc5861aa95dba6.png){width="665" height="308"}
+![](meta/iut_lms_report_html_ecc5861aa95dba6.jpg)
 
-When you try to login to our page by pressing “Login” button on the
-corner, you will see Authentication page, then you can enter by passing
-your UserID and Password that has already been given by Librarians.
-There you can see “Remember Me” checkbox, if you mark it, every time
-when you login to your account it saves your records.
+When you try to login to our page by pressing “Login” button on the corner, you will see Authentication page, then you can enter by passing your UserID and Password that has already been given by Librarians. There you can see “Remember Me” checkbox, if you mark it, every time when you login to your account it saves your records.
 
-![](meta/iut_lms_report_html_4c68ec3ae5eac632.png){width="665" height="309"}
+![](meta/iut_lms_report_html_4c68ec3ae5eac632.jpg)
 
-After you logged in to your account you will see default “Dashboard”
-page that illustrates current statistics of the system. Then you will
-have reference options (with dashboard) Personal Info, Change Password,
-and Log out.
+After you logged in to your account you will see default “Dashboard” page that illustrates current statistics of the system. Then you will have reference options (with dashboard) Personal Info, Change Password, and Log out.
 
-![](meta/iut_lms_report_html_11cec52fe0e5585f.png){width="665" height="331"}
+![](meta/iut_lms_report_html_11cec52fe0e5585f.jpg)
 
 Here you see, there is a personal information of the user
 
-![](meta/iut_lms_report_html_48fe234e8ca71f38.png){width="665" height="374"}
+![](meta/iut_lms_report_html_48fe234e8ca71f38.jpg)
 
-Changing password page. First user should enter current password and
-then new password after all he/she should confirm it
+Changing password page. First user should enter current password and then new password after all he/she should confirm it
 
-![](meta/iut_lms_report_html_63cf3346d570b532.png){width="665" height="374"}
+![](meta/iut_lms_report_html_63cf3346d570b532.jpg)
 
-Here is a catalog page, and here user can see all books with some book
-information and search them
+Here is a catalog page, and here user can see all books with some book information and search them
 
-![](meta/iut_lms_report_html_561101c346fae876.png){width="665" height="308"}
+![](meta/iut_lms_report_html_561101c346fae876.jpg)
 
-And as you see here at the end of the page it displays books with
-pagination and every page displays 10 book items per page
+And as you see here at the end of the page it displays books with pagination and every page displays 10 book items per page
 
-![](meta/iut_lms_report_html_f8f616fb79a07494.png){width="665" height="374"}
+![](meta/iut_lms_report_html_f8f616fb79a07494.jpg)
 
-Individual book description page and here you can download if user is
-singed
+Individual book description page and here you can download if user is singed
 
-![](meta/iut_lms_report_html_591bfc2a683365e3.png){width="665" height="328"}
+![](meta/iut_lms_report_html_591bfc2a683365e3.jpg)
 
 Also in this page you can leave comment to this book
 
-![](meta/iut_lms_report_html_5a0cfd08e8068eb7.png){width="665" height="374"}
+![](meta/iut_lms_report_html_5a0cfd08e8068eb7.jpg)
 
 Here you can download the book item
 
-![](meta/iut_lms_report_html_8ee5980a4988b47b.png){width="665" height="374"}
+![](meta/iut_lms_report_html_8ee5980a4988b47b.jpg)
 
-Here is a text book page. In this page you can see all text books which
-is used in both first and second semesters in a year for 4 courses. As
-well as, we should inform that this page is currently not dynamic and
-not linked to database. For the future, we will finish this.
+Here is a text book page. In this page you can see all text books which is used in both first and second semesters in a year for 4 courses. As well as, we should inform that this page is currently not dynamic and not linked to database. For the future, we will finish this.
 
-![](meta/iut_lms_report_html_6f6ac63a3a0f4ac5.png){width="665" height="374"}
+![](meta/iut_lms_report_html_6f6ac63a3a0f4ac5.jpg)
 
-![](meta/iut_lms_report_html_2409e966a82e4c54.png){width="665" height="374"}
+![](meta/iut_lms_report_html_2409e966a82e4c54.jpg)
 
-This page informs you about iut library. Here you can see rules of iut
-library
+This page informs you about iut library. Here you can see rules of iut library
 
-![](meta/iut_lms_report_html_64237de8d53be2ce.png){width="665" height="374"}
+![](meta/iut_lms_report_html_64237de8d53be2ce.jpg)
 
-Validated login page checks the user ID and password and if it is not
-matched it will gives error message
+Validated login page checks the user ID and password and if it is not matched it will gives error message
 
-![](meta/iut_lms_report_html_7b8c2c2d734c7fd5.png){width="665" height="374"}
+![](meta/iut_lms_report_html_7b8c2c2d734c7fd5.jpg)
 
-Here is personal page of the librarian and you can see some addition
-features at navigation bar .
+Here is personal page of the librarian and you can see some addition features at navigation bar .
 
-![](meta/iut_lms_report_html_be87744347ed36f1.png){width="665" height="374"}
+![](meta/iut_lms_report_html_be87744347ed36f1.jpg)
 
-![](meta/iut_lms_report_html_5e5d5cca4b92bbc4.png){width="665" height="374"}
+![](meta/iut_lms_report_html_5e5d5cca4b92bbc4.jpg)
 
 This is the table which is provides all list of books
 
-![](meta/iut_lms_report_html_a9e715d8b3a4faae.png){width="665" height="374"}
+![](meta/iut_lms_report_html_a9e715d8b3a4faae.jpg)
 
-![](meta/iut_lms_report_html_a1228f80623eda0e.png){width="664" height="373"}
+![](meta/iut_lms_report_html_a1228f80623eda0e.jpg)
 
 This page is to add books as you can see
 
-![](meta/iut_lms_report_html_7ebe851f776221c5.png){width="665" height="374"}
+![](meta/iut_lms_report_html_7ebe851f776221c5.jpg)
 
-Here is a page of all list of member who enrolled in iut library
-database
+Here is a page of all list of member who enrolled in iut library database
 
-![](meta/iut_lms_report_html_91d703a48f4d344d.png){width="665" height="374"}
+![](meta/iut_lms_report_html_91d703a48f4d344d.jpg)
 
 This is a page to enroll new user of our website
 
-![](meta/iut_lms_report_html_f112f9b8713d4ff.png){width="665" height="209"}
+![](meta/iut_lms_report_html_f112f9b8713d4ff.jpg)
 
-At the bottom of our website you can get acquainted with contact
-information and location in the map which is used by API of the google
-services.
+At the bottom of our website you can get acquainted with contact information and location in the map which is used by API of the google services.
 
 Database Schema:
 
 Users Table
 
-![](meta/iut_lms_report_html_630a92443ddd93bf.png){width="664" height="274"}
+![](meta/iut_lms_report_html_630a92443ddd93bf.jpg)
 
 Books Table
 
-![](meta/iut_lms_report_html_f6caeafac62d4818.png){width="664" height="380"}
+![](meta/iut_lms_report_html_f6caeafac62d4818.jpg)
 
-Genre column should be provided in the case that bookType =
-‘Literature’, Similarly, if bookType is equal to ’Textbook’, then
-semester should be provided. And This way we can use this current table
-for bookType = ‘Literature’ | ‘Science’ | ‘Textbook’ | ‘Others’
+Genre column should be provided in the case that bookType = ‘Literature’, Similarly, if bookType is equal to ’Textbook’, then semester should be provided. And This way we can use this current table for bookType = ‘Literature’ | ‘Science’ | ‘Textbook’ | ‘Others’
 
-![](meta/iut_lms_report_html_f9317324f12d2118.png){width="665" height="374"}
+![](meta/iut_lms_report_html_f9317324f12d2118.jpg)
 
-Exception and Routing of 404 not found page was done by Rakhmatjon
-Khasanov
+Exception and Routing of 404 not found page was done by Rakhmatjon Khasanov
 
-Template of these given page was fully decorated and written by Sardor
-Allaberganov
+Template of these given page was fully decorated and written by Sardor Allaberganov
 
 Comments Table
 
-![](meta/iut_lms_report_html_5b9ff8eba4e5eaf1.png){width="664" height="144"}
+![](meta/iut_lms_report_html_5b9ff8eba4e5eaf1.jpg)
 
 Genres Table
 
-![](meta/iut_lms_report_html_8bcbd2130c1e966.png){width="662" height="106"}
+![](meta/iut_lms_report_html_8bcbd2130c1e966.jpg)
 
 Relation between Genres and Books
 
-![](meta/iut_lms_report_html_ccc7f2bdc54a45c3.png){width="665" height="135"}
+![](meta/iut_lms_report_html_ccc7f2bdc54a45c3.jpg)
 
-With above given tables we can easily related books with genres and we
-can say that each book can have multiple genres.
+With above given tables we can easily related books with genres and we can say that each book can have multiple genres.
 
 **Contributions of members:**
 
 1.  **Sardor Allabergenov**
-    - made page design and dashboard pages, profile pages. Worked on
-      appearance of the website and client – side part. Applied google map API
-      in the footer. Constructs the page layouts with the javascript ,css and
-      using the framework like jquery, bootstrap and some instruments like owl
-      carousel.
+    - made page design and dashboard pages, profile pages. Worked on appearance of the website and client – side part. Applied google map API in the footer. Constructs the page layouts with the javascript ,css and using the framework like jquery, bootstrap and some instruments like owl carousel.
 
 2.  **Rakhmatjon Khasanov**
     - Login and Members, Books, Pages, and Comments Models and Controllers.
